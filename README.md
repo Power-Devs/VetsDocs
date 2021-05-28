@@ -4,3 +4,5 @@ Plataforma que conecta clínicas veterinárias e usuários donos de pets em gera
 
 Protótipo:
 https://www.figma.com/file/X27m5nEAEblDtBgHckaOiD/Vets?node-id=0%3A1
+
+### A primeira versão do projeto Vets terá a seguinte função:
